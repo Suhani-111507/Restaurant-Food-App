@@ -77,11 +77,4 @@ Restaurant_Food_App/
 - Internal REST APIs (Node.js + Express)
 - Optional Twilio integration for order notifications
 ---
-👨‍💻 Author
-**Gangdev Pooniya**
 
----
-### User app repo
-```bash
-https://github.com/gangz-bot/My_Food_Application
-```
